@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1858566662459987182}
   - component: {fileID: 2150639493224539466}
   - component: {fileID: 4013815867772828344}
+  - component: {fileID: 6909294441379497977}
   m_Layer: 8
   m_Name: Pellet
   m_TagString: Untagged
@@ -137,3 +138,15 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.25, y: 0.25}
   m_EdgeRadius: 0
+--- !u!114 &6909294441379497977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2467567946230747850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d3cbbf3f2ffdab40ae67fbeafbec4af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Pellet
